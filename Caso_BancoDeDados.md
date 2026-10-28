@@ -1,0 +1,13 @@
+# Banco de Dados da Imobiliária
+
+Uma empresa imobiliária decidiu desenvolver um sistema para poder facilitar o controle das suas locações, vendas e visitações. Então foi realizada uma entrevista para entender melhor as informações necessárias para criar um banco de dados para este software.
+
+A empresa precisa armazenar os dados dos imóveis ofertados, indicando seu endereço, número de quartos, de banheiros e de vagas de garagem, o preço do imóvel, se ele está em um condomínio, a área em metros quadrados e a descrição. Estes imóveis podem ser apartamentos ou casas, tendo alguns dados especiais para cada um destes tipos: nas casas é necessário indicar o tipo, se tem quintal e/ou piscina, já nos apartamentos, os compradores buscam saber o número do apartamento, o andar, se possui áreas comuns e as regras do edifício. É importante também destacar que é preciso que os clientes possam filtrar por essas características, além do bairro do imóvel.
+
+Cada imóvel tem seu proprietário e tem alguns dados importantes para se saber sobre ele, como seu nome, CPF, formas de contato (telefones e emails) e ele precisa ter o registro da propriedade no Cartório de Registro de Imóveis. Pensando nos cadastros necessários é muito importante também terem as informações de seus corretores, entre elas seu nome, CPF, telefone, email e o número do registro profissional dele, seu CRECI. Por último, precisam dos dados de seus clientes, sendo estes o nome, CPF, endereço, emails, telefones e as preferências de cada um, registrando o que preferem nas características do imóvel de acordo com aquelas cadastradas para eles.
+
+O objetivo do sistema é ofertar os imóveis, para isso é necessário ter os dados de data em que o imóvel foi colocado para ser vendido ou alugado no sistema, o valor inicial e como está o status (disponível, encerrado, suspenso).
+
+Os clientes devem poder marcar visitas em determinada data e hora nos imóveis, sendo acompanhados pelos corretores para poder conhecer o ambiente antes de fazer uma negociação final. Esta negociação é o momento em que será fechada a venda e começam a ter diferentes negociações, tendo uma data, um valor, o status e o tipo de negociação que está fazendo (para compra ou para venda).
+
+Assim que há um acerto em ambas as partes depois de uma negociação, é então feito o contrato com a data em que ele foi assinado e da entrega das chaves, acrescentando o valor mensal do aluguel e do condomínio, a data do vencimento para pagar e a duração do aluguel, caso este seja o caso, mas caso seja uma venda, serão necessárias as informações de valor total e onde teve o registro da escritura do imóvel.
