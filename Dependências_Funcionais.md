@@ -30,6 +30,7 @@
 
 {idNegociacao} → {statusNegociacao, tipoNegociacao, dataNegociacao, valorNegociacao, idCliente, idOferta}
 
+
 {idContrato} → {dataAssinatura, dataEntrega, valorCondominio, idNegociacao}
 
 {idContratoAluguel} → { valorAluguel, dataVencimento, duracao}
