@@ -24,7 +24,7 @@
 
 {idApartamento, areasComuns} → { }
 
-{idOferta} → {statusOferta, dataOferta, valorOferta, idImovel}
+{idOferta} → {statusOferta, tipoOferta, dataOferta, valorOferta, idImovel}
 
 {idVisita} → {dataHora, idCorretor, idCliente, idOferta}
 
@@ -33,6 +33,6 @@
 
 {idContrato} → {dataAssinatura, dataEntrega, valorCondominio, idNegociacao}
 
-{idContratoAluguel} → { valorAluguel, dataVencimento, duracao}
+{idContratoAluguel} → { valorAluguel, diaVencimento, duracaoDias}
 
 {idContratoVenda} → {registroEscritura, valorTotal}
