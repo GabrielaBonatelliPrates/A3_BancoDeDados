@@ -20,3 +20,4 @@ Links para facilitar o acesso aos materiais que compõe o trabalho:
 - [Diagrama Entidade e Relacionamento usando notação Alternativa UML](A3_BancoDeDados_NotacaoAlternativa.png) <br>
 - [Modelo Relacional](A3_BancoDeDados_MR.xlsx) <br>
 - [Dependências Funcionais](Dependências_Funcionais.md) <br>
+- [Dicionário de Dados](DicionarioDeDados.md)<br>
