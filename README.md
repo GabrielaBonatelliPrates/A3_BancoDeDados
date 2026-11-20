@@ -21,3 +21,6 @@ Links para facilitar o acesso aos materiais que compõe o trabalho:
 - [Modelo Relacional](A3_BancoDeDados_MR.xlsx) <br>
 - [Dependências Funcionais](Dependências_Funcionais.md) <br>
 - [Dicionário de Dados](DicionarioDeDados.md)<br>
+- [Criação do Banco de Dados (DDL)](A3_BancoDeDados_DDL.sql)<br>
+- [Inserção de dados no Banco de Dados (DML)](A3_BancoDeDados_DML.sql)<br>
+- [Consultas no Banco de Dados para gerar relatórios (DQL)](A3_BancoDeDados_DQL.sql)<br>
